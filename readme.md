@@ -1,4 +1,4 @@
-# React Comment Box
+# AngularJS Comment Box
 ## Overview
 The following is a simple comment box made with `AngularJS`, that posts comments to a `laravel` backend.  The comments are saved and displayed in the comment box.
 
